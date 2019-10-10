@@ -13,8 +13,8 @@ public class DebitCard {
     if (money < account.getBalance()) {
       account.setBalance(account.getBalance() - money);
     } else {
-      System.out.println(
-          "Sorry you don't have enough money, your balance is " + account.getBalance());
+      System.out.print("Sorry you don't have enough money, your balance is ");
+      System.out.println(account.getBalance());
     }
   }
 
