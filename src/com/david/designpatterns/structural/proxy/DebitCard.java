@@ -1,4 +1,4 @@
-package com.david.designpatterns.behavioral.proxy;
+package com.david.designpatterns.structural.proxy;
 
 public class DebitCard {
   private Account account;

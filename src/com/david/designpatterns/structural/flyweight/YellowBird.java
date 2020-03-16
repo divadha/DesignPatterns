@@ -1,4 +1,4 @@
-package com.david.designpatterns.behavioral.flyweight;
+package com.david.designpatterns.structural.flyweight;
 
 public class YellowBird implements Bird {
 

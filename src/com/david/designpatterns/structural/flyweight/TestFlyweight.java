@@ -1,4 +1,4 @@
-package com.david.designpatterns.behavioral.flyweight;
+package com.david.designpatterns.structural.flyweight;
 
 import java.util.HashMap;
 import java.util.Map;
